@@ -1,4 +1,6 @@
-# StripchatRecorder - All credits to @beaston02 and @ahsand97
+# StripchatRecorder 
+
+All credits to @beaston02 and @ahsand97
 
 This is script to automate the recording of public webcam shows from stripchat.com. 
 
